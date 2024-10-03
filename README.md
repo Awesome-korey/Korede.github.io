@@ -7,7 +7,8 @@
 University of Lagos Nigeria (2020/2026)
 
 ### Experience
-Data analyst intern/Marriage Sparkles Consult/Lagos Nigeria (January 2023-till present)
+
+### Data analyst intern/Marriage Sparkles Consult/Lagos Nigeria (January 2023-till present)
 
 
 -Conducted data collection for over 100 clients undergoing different programs: Behavioural change programs, Addiction recovery, Teenagers bootcamp, case files and other social development projects of the company.
@@ -20,7 +21,7 @@ Data analyst intern/Marriage Sparkles Consult/Lagos Nigeria (January 2023-till p
 
 
 
-Acccenture Data analytics and visualization job simulation forage(Certified) April 11th 2024
+### Acccenture Data analytics and visualization job simulation forage(Certified) April 11th 2024
 
 -Analyzed the business problems for the company Social buzz and identified the data and analytical approach needed to address the  client's need.
 
