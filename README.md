@@ -1,6 +1,6 @@
 # Data Analyst
 
-###Technical skills: Excel, SQL, PowerBi, Python
+### Technical skills: Excel, SQL, PowerBi, Python
 
 ### Education
 Quantity Surveying
