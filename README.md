@@ -1,5 +1,7 @@
 # Data Analyst
 
+###Technical skills: Excel, SQL, PowerBi, Python
+
 ### Education
 Quantity Surveying
 University of Lagos Nigeria 2020/2026
